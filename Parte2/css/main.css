@@ -1,1 +1,22 @@
 /* Pon tu código css aqui */
+body{
+    margin: 0px;
+}
+.amarillo{
+    width: 25%;
+    height: 220px;
+    background-color: yellow;
+    float: left;
+}
+.azul{
+    width: 25%;
+    height: 220px;
+    background-color: #3F75BA;
+    float: left;
+}
+.rojo{
+    width: 25%;
+    height: 220px;
+    background-color: #E90E5B;
+    float: left         
+}
